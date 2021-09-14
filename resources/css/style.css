@@ -1,0 +1,23 @@
+*{
+  background-color:#DCE1E3;
+}
+h1{
+  font-size: 2rem;
+  color:#004E7C;
+  font-weight: 600;
+  text-align: center;
+}
+h2{
+  font-size: 1.5rem;
+  color:#591C0B;
+}
+h3{
+  font-size:1.3rem;
+  color:#591C0B;
+}
+button{
+  background-color:#5C5F58;
+  color:#DCE1E3;
+  text-decoration: none;
+  padding: 10px;
+}
